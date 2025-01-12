@@ -15,7 +15,7 @@ all portfolio activities.
 ## steps to run the project
 Run the following commands:
 
-https://github.com/addagirilakshmipriyanka/Portfolio-tracker/tree/master
+https://github.com/NARAYANAMMANALLAPATI/Portfolio-Tracker/edit/main/README.md
 
 cd Portfolio-tracker
 
